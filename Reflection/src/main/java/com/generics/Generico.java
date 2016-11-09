@@ -8,6 +8,8 @@ public class Generico<T extends Number> {
 		return unobjeto;
 	}
 	
+	
+	//sumando
 	public double sumar(){
 		return unobjeto.doubleValue() + segundoobjeto.doubleValue();
 	}
