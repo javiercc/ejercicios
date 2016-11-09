@@ -9,7 +9,7 @@ public class Generico<T extends Number> {
 	}
 	
 	
-	//sumando
+	//sumando dos valores
 	public double sumar(){
 		return unobjeto.doubleValue() + segundoobjeto.doubleValue();
 	}
